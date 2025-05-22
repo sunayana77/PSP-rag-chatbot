@@ -27,3 +27,5 @@ This project implements a Retrieval-Augmented Generation (RAG) chatbot specializ
 Pinecone API key (set in environment variable PINECONE_API_KEY)
 Groq API key (used in the ChatGroq LLM initialization)
 
+3. Create a .env file where all your api key are stored.
+
